@@ -18,14 +18,14 @@ class Dragon {
 }
 
 const puff = new Dragon("Puff", "green");
-console.log(puff);
-console.log(puff.breathesFire());
+//console.log(puff);
+//console.log(puff.breathesFire());
 
 const toothless = new Dragon("Toothless", "black");
-console.log(toothless);
-console.log(toothless.breathesFire());
+//console.log(toothless);
+//console.log(toothless.breathesFire());
 
-console.log(Dragon.getDragons(puff, toothless));
+//console.log(Dragon.getDragons(puff, toothless));
 /****************************************************************************/
 /******************* DO NOT EDIT CODE BELOW THIS LINE ***********************/
 
